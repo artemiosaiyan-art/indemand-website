@@ -3,14 +3,15 @@
   return (
     <main style={{ fontFamily: "Arial, sans-serif", padding: "20px", maxWidth: "900px", margin: "auto" }}>
       
-      <h1 style={{ fontSize: "40px", marginBottom: "10px" }}>
-        In Demand Building Services
-      </h1>
+  <img
+  src="/logo.avif"
+  alt="In Demand Building Services Logo"
+  style={{ width: "180px", marginBottom: "20px" }}
+/>
 
-      <p style={{ fontSize: "18px", color: "#555" }}>
-        Serving the Greater Toronto Area (GTA)
-      </p>
-
+<h1 style={{ fontSize: "40px", marginBottom: "10px" }}>
+  In Demand Building Services
+</h1>
       <div style={{ marginTop: "20px" }}>
         <a href="tel:4163168232" style={{
           background: "#0070f3",
